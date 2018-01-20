@@ -2,7 +2,9 @@
 
 Team Lost's guide to security and beyond!
 
-This book is a collection of the stuff we have learned over the years, be it through NUS, CTFs, books or other ventures. This is not meant as a standard introduction to security or penetration testing by any means. If you feel like contributing, send in a pull request. Feel free to fork it if you want to. 
+This book is a collection of the stuff we have learned over the years, be it through NUS, CTFs, books or other ventures. This is not meant as a standard introduction to security or penetration testing by any means. If you feel like contributing, send in a pull request. Feel free to fork it if you want to.
+
+Also some \(most\) of the flavour text is bullshit.
 
 ## How to use this book
 
