@@ -2,17 +2,11 @@
 
 Cryptography or cryptology is the practice and study of mathematical techniques for secure communication in the presence of third parties called adversaries. It is not the only means of providing information security, but just one set of techniques.
 
-
-
 > Using the power of Mathemagic, you can multiply power, subtract hope, and cube-root the dreams of man himself. This is a strange, abstract school of magic that has a way of driving its users insane.
 >
 > * Dungeons of Dredmor, Mathemagic
 
-
-
 The CIA triad of confidentiality, integrity, and availability is at the heart of information security, and is listed as follows:
-
-
 
 | Keyword | Definition |
 | :--- | :--- |
@@ -32,8 +26,6 @@ Homophonic substitution ciphers replaces each symbol in a plaintext message bloc
 Polyaphabetic substitution ciphers replaces each symbol with multiple substitution alphabets.
 
 Substitution ciphers by themselves are not enough to achieve security - it is too easily cracked. Many other books will delve into why this is so, but not here. Substitution ciphers are obsolete in modern times.
-
-
 
 ### One-Time-Pad\(OTP\)
 
@@ -58,7 +50,7 @@ It can deduce that K1, the first bit of K, is 1 ⊕ C1.
 But having K1 tells it nothing about the other bits of K, and hence v2,...,vn remain hidden
 ```
 
-#### What is perfect secrecy? 
+#### What is perfect secrecy?
 
 Perfect secrecy is the notion that, given an encrypted message \(or ciphertext\) from a perfectly secure encryption system \(or cipher\), absolutely nothing will be revealed about the unencrypted message \(or plaintext\) by the ciphertext.
 
