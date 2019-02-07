@@ -1,9 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Networking](chapter1.md)
-  * [TCP/IP Fundamentals](chapter1/tcpip-fundamentals.md)
-* [Crypto Fundamentals](crypto-basics.md)
 * [Overview](crypto-basics/basic-terminology-and-concepts.md)
   * [Symmetric Encryption](crypto-basics/basic-terminology-and-concepts/symmetric-encryption.md)
 * [AES](crypto-basics/aes.md)
