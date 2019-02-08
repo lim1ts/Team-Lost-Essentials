@@ -6,9 +6,9 @@ This book is a collection of the stuff we have found useful when we first starte
 
 We have used a myriad of offline and online resources; it is likely that most of this knowledge is available freely on the internet or at your university. References will be updated at a later date.
 
-Also most of the flavour text is bs that I use to entertain myself while writing.
-
 ## How to use this book
+
+Most of the flavour text is bs that I use to entertain myself while writing.
 
 > _Everytime you lose, you get stronger._
 >
@@ -17,6 +17,8 @@ Also most of the flavour text is bs that I use to entertain myself while writing
 Materials discussed in the book are not meant to be exhaustive. This is not an introductory text or a textbook even. Readers might find this collection of information useful as a reference sheet or a long form cheatsheet. We hope that this will be improved on in future iterations, but that is the least of our worries currently.
 
 ## Roadmap
+
+Short-term roadmap for the future.
 
 | What | When |
 | :--- | :--- |
