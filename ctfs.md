@@ -2,9 +2,9 @@
 
 As a small, fledgling team, we don't stand a chance against top teams like Shellphish and PPP. Our main goal of playing CTFs should be to learn, and hopefully one day we can become good enough to play in small regional competitions.
 
-> THE ENEMY HAS MATCH POINT! IRRELEVANT! CRUSH THEM.
+> _**THE ENEMY HAS MATCH POINT! IRRELEVANT! CRUSH THEM.**_
 >
-> * Lord Shaxx, Destiny series
+> * [Lord Shaxx](https://www.destinypedia.com/Shaxx), Destiny series
 
 In time to come, we will populate this collection with a series of our writeups, but there's a lot of cleaning up to do.
 

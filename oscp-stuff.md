@@ -1,6 +1,8 @@
 # Team Lost's Guide to Trying Harder
 
-###### 
+> _The things I once imagined would be my greatest achievements were only the first steps toward a future I can only begin to fathom._
+>
+> * [Jace Beleren, Omniscience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=288937) -  Magic: the Gathering
 
 ###### **Recommended reading:**
 
