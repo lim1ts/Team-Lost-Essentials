@@ -31,7 +31,9 @@
 * [Linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker/blob/master/linuxprivchecker.py)
 * [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check)
 * [Shellstorm shellcodes](http://shell-storm.org/shellcode/) \(for when you are too lazy to even use msfvenom\)
-* [Tty shell spawning](http://netsec.ws/?p=337), most often you will get a limited shell; no tab completion, Crtl-C to end process ends the session,etc. Does the victim machine have `socat` installed? Or `gcc` and `make`? [Try this.](https://github.com/cornerpirate/socat-shell)
+* [Tty shell spawning](http://netsec.ws/?p=337)
+* Upset that Crtl-C ends the session? Need tab completion to complete your life? [UPGRADE your shell](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/).
+* Does the victim machine have `socat` installed? Or `gcc` and `make`? [Try this.](https://github.com/cornerpirate/socat-shell)
 * Limited commands? Jailed in a chroot? Escape with unix binaries - [GTFObins](https://gtfobins.github.io/).
 
 ##### 
