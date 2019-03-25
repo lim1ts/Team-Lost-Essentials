@@ -20,6 +20,8 @@ Materials discussed in the book are not meant to be exhaustive. This is not an i
 
 Short-term roadmap for the future.
 
+// We totally failed to meet these deadlines.
+
 | What | When |
 | :--- | :--- |
 | Stub articles - reference dumps and quick notes for General, OSCP, Reverse Engineering, Pwn, Web, Exploit Development. | 18th February 2019 |

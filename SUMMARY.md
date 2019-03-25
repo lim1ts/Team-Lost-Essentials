@@ -6,6 +6,7 @@
 * [General stuff](general-stuff.md)
 * [OSCP Stuff](oscp-stuff.md)
 * [Playing CTFs](ctfs.md)
+* [Exploit Development](exploit-development.md)
 * [Reversing](reversing.md)
 * [Web](web.md)
 * [Malware Analysis](malware-analysis.md)

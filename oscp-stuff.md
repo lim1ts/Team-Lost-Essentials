@@ -32,6 +32,7 @@
 * [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check)
 * [Shellstorm shellcodes](http://shell-storm.org/shellcode/) \(for when you are too lazy to even use msfvenom\)
 * [Tty shell spawning](http://netsec.ws/?p=337)
+* [Some dude's guide on port enumeration](https://sushant747.gitbooks.io/total-oscp-guide/content/list_of_common_ports.html) : He also has a lot of other stuff, but you should know all of them as its all OSCP material.
 * Upset that Crtl-C ends the session? Need tab completion to complete your life? [UPGRADE your shell](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/).
 * Does the victim machine have `socat` installed? Or `gcc` and `make`? [Try this.](https://github.com/cornerpirate/socat-shell)
 * Limited commands? Jailed in a chroot? Escape with unix binaries - [GTFObins](https://gtfobins.github.io/).
