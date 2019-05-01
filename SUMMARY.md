@@ -11,6 +11,7 @@
 * [Web](web.md)
 * [Malware Analysis](malware-analysis.md)
 * [Android ](android.md)
+* [DFIR](dfir.md)
 
 ## CTF notes
 
